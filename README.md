@@ -1,4 +1,4 @@
-## Go Ethereum
+## jonvit Eth
 
 Golang execution layer implementation of the Ethereum protocol.
 
